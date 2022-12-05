@@ -1,6 +1,6 @@
 categories:
   - golang
-title: Go Docker Compose Lp
+title: Go Learning Path Shafaq
 description: Golang New Learning Path
 isPremium: true
 isNew: true
